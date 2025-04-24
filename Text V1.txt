@@ -1,0 +1,45 @@
+Welcome to this course
+where you will learn about using generative
+AI for data analytics. Generative AI is
+artificial intelligence that has revolutionized data analysis by transforming existing information into
+concise, fresh content. Instead of coping with
+incomprehensible data, you can streamline
+the information into straightforward and
+insightful observations in simple language quickly. Generative AI can
+create synthetic data, create insightful visuals
+from complex data, fill in missing values
+in a data set, generate code from prompts in
+plain language, and so on. If you are aspiring to
+become a data analyst with knowledge of this
+progressive technology, this course is for you. This is the third course
+in the generative AI for data analytics program and
+caters to all learners seeking for a career in data analytics
+with basic knowledge of artificial intelligence and with some experience
+in data analysis. This three-module
+course welcomes any aspiring data analyst inclined to learn
+about generative AI. This course does not
+require any prior degree. However, having a basic
+knowledge of data analytics, artificial intelligence,
+prompt engineering, Python programming, and generative AI would
+be beneficial. In the first module, you will learn
+about the different generative AI tools
+available for data analytics and the
+successful implementations of generative AI
+and data analytics. You will also learn
+about the use of generative AI for
+data generation, preparation and augmentation,
+database querying, and Q&A model and insights. In the next module,
+you will learn how to draw insights from
+a dataset using different generative
+AI tools and use generative AI for
+data visualization. You will also learn how
+to use generative AI to create interactive
+dashboards and storytelling. In addition, you will
+understand the considerations, challenges, and ethical
+usage using generative AI. In the final module, you will do a guided practice project and go through the key
+takeaways from this course. You will also complete the final assessment
+of this course. There's a lot to cover here. To get the most out of this
+course, view each video, read through all the articles, complete all hands-on
+activities, and check your learning
+with each quiz. If you need help,
+please reach out to your peers or the course staff on the course discussion forums. We're thrilled to have you join us on this learning journey. Let's get started. Good luck.
