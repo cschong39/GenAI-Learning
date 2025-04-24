@@ -1,1 +1,3 @@
-GenAI Learning Repository
+# GenAI-Learning
+Testing Repository
+This is the first markdown file
